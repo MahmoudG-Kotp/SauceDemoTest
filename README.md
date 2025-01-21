@@ -1,4 +1,4 @@
-# SauceDemoTest_Sumerge
+# SauceDemoTest
 
 This project is a suite of **end-to-end tests** for the **Sauce Labs Demo App**, implemented using **Selenium WebDriver**, **TestNG**, and **Page Object Model (POM)**. The tests cover critical functionalities such as login, product sorting, shopping cart actions, and user logout.
 
